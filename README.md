@@ -25,3 +25,8 @@ Web Development:
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-%2365548d?style=for-the-badge&logo=dotnet&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+Version Control:
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge) 
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
